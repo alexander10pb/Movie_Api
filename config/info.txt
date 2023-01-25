@@ -1,0 +1,12 @@
+MÓDULO OS
+.
+El módulo OS en Python proporciona funciones para interactuar con el sistema operativo. OS es un módulo estándar de Python. El módulo os.path es un submódulo del módulo OS en Python que se utiliza para la manipulación de nombres de rutas comunes.
+.
+Dirname()
+El método os.path.dirname() en Python se usa para obtener el nombre del directorio de la ruta especificada.
+.
+Realpath()
+El método os.path.realpath() en Python se usa para obtener la ruta canónica (por así decirlo, la URL original de una web) del nombre de archivo especificado al eliminar cualquier enlace simbólico que se encuentre en la ruta.
+.
+Join()
+Combina nombres de rutas en una ruta completa. Esto significa que puede fusionar varias partes de una ruta en una, en lugar de codificar manualmente cada nombre de ruta.
